@@ -2,7 +2,7 @@ import React from 'react'
 // import img  from './Sosh.png'
 import Login from './components/Login2'
 import Home from './container/Home'
-import {Routes, Route } from 'react-router-dom'
+import {Routes, Route, useNavigate } from 'react-router-dom'
 
 // rafce
 
